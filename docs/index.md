@@ -1,15 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to dev_com_test
 
 If you want to access githug pages "dev_com_test", please click the page below.  
 https://bluehawhy.github.io/dev_com_test/  
   
   
-2022 공개SW 개발자대회  
+[2022 공개SW 개발자대회](https://www.oss.kr/dev_competition)
   
 참가 인원 : 강민수 , 최경림, 권형주, 박용범  
-  
-관련 페이지  
-https://www.oss.kr/dev_competition  
   
 일정  
 7.4(월) ~ 8.3(수)  
@@ -19,7 +16,7 @@ https://www.oss.kr/dev_competition
 - 개발과정(30개) : 프로젝트 개발에 필요한 기술 및 트렌드 기반 과정  
 
 <details>
-<summary>Date 7/14 discussion</summary>
+<summary><hl>Date 7/14 discussion</hl></summary>
 <div markdown="1">
 강의 듣고, git에 본인 이니셜.txt로 커밋하기  
 https://www.inflearn.com/course/git-and-github  
@@ -28,17 +25,17 @@ https://github.com/bluehawhy/dev_com_test.git
 기본 베이스가 자바스크립트 or 타입스크립트이므로 각자 공부  
   
 참고 사이트  
-[수상작들](https://www.oss.kr/dev_competition_activities)
-[추가 강의](https://nomadcoders.co/git-for-beginners)  
+수상작들 - https://www.oss.kr/dev_competition_activities  
+추가 강의 - https://nomadcoders.co/git-for-beginners  
 </div>
 </details>
 
 <details>
-<summary>Date 7/18 discussion</summary>
+<summary><h2>Date 7/18 discussion</summary>
 <div markdown="1">
 git 참고 강의  
-[git 협업방식](https://www.youtube.com/watch?v=EV3FZ3cWBp8)  
-[git 기본 강의](https://www.youtube.com/watch?v=sly2u8BIi9E)  
+git 협업방식 - https://youtu.be/EV3FZ3cWBp8  
+git 기본 강의 - https://youtu.be/sly2u8BIi9E  
   
 TODO - 프로젝트 아이디어 각자 2개씩  
 - 제목 1줄  
@@ -53,7 +50,7 @@ TODO - 프로젝트 아이디어 각자 2개씩
 식자제 교환 시스템  
 식자제를 근접한 사람끼리 교환하는 앱  
 한 사람이 글을 올리면 다른 사람이 보고 채팅을 통해 교환 및 나눔한다  
-> 넘 깊지 않게 작성  
+> 넘 깊지 않게 작성
 </div>
 </details>
 
