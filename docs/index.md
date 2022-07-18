@@ -17,6 +17,7 @@ https://bluehawhy.github.io/dev_com_test/
 - 개발과정(30개) : 프로젝트 개발에 필요한 기술 및 트렌드 기반 과정  
 
 ToDo List
+- [ ] git 강의 듣고, git에 본인 이니셜.txt로 커밋하기  
 - [ ] 프로젝트 아이디어 각자 2개씩 
 ```
 
@@ -27,11 +28,8 @@ ToDo List
 <span style="font-size:60%">
 <div markdown="1">
 강의 듣고, git에 본인 이니셜.txt로 커밋하기  
-
 https://www.inflearn.com/course/git-and-github  
-
 https://github.com/bluehawhy/dev_com_test.git  
-  
 기본 베이스가 자바스크립트 or 타입스크립트이므로 각자 공부  
   
 참고 사이트  
