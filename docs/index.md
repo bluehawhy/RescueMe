@@ -28,8 +28,8 @@ https://github.com/bluehawhy/dev_com_test.git
 기본 베이스가 자바스크립트 or 타입스크립트이므로 각자 공부
 
 참고 사이트 
-수상작들 - [Link]https://www.oss.kr/dev_competition_activities
-추가 강의 - [Link]https://nomadcoders.co/git-for-beginners
+수상작들 - https://www.oss.kr/dev_competition_activities
+추가 강의 - https://nomadcoders.co/git-for-beginners
 </div>
 </details>
 
@@ -37,8 +37,8 @@ https://github.com/bluehawhy/dev_com_test.git
 <summary>Date 7/18 discussion</summary>
 <div markdown="1">
 git 참고 강의 
-git 협업방식 - [Link]https://youtu.be/EV3FZ3cWBp8
-git 기본 강의 - [Link]https://youtu.be/sly2u8BIi9E
+git 협업방식 - https://youtu.be/EV3FZ3cWBp8
+git 기본 강의 - https://youtu.be/sly2u8BIi9E
 
 TODO - 프로젝트 아이디어 각자 2개씩 
 - 제목 1줄
