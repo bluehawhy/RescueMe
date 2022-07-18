@@ -20,8 +20,7 @@ ToDo List
 - [ ] 프로젝트 아이디어 각자 2개씩 
 ```
 |discuss list|
-|
-<details>
+|<details>
 <summary>Date 7/14 discussion</summary>
 <div markdown="1">
 강의 듣고, git에 본인 이니셜.txt로 커밋하기  
@@ -36,10 +35,8 @@ https://github.com/bluehawhy/dev_com_test.git
 수상작들 - https://www.oss.kr/dev_competition_activities  
 추가 강의 - https://nomadcoders.co/git-for-beginners  
 </div>
-</details>
-|
-|
-<details>
+</details>|
+|<details>
 <summary>Date 7/18 discussion</summary>
 <div markdown="1">
 git 참고 강의  
@@ -61,5 +58,4 @@ TODO - 프로젝트 아이디어 각자 2개씩
 한 사람이 글을 올리면 다른 사람이 보고 채팅을 통해 교환 및 나눔한다  
 > 넘 깊지 않게 작성
 </div>
-</details>
-|
+</details>|
