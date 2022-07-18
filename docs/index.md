@@ -15,12 +15,14 @@ https://bluehawhy.github.io/dev_com_test/
 참각자의 공개SW 이해 및 개발 역량 강화를 위한 온라인 교육 제공  
 - 선수과정(5개) : 공개SW 처음 접하는 비전공자 및 초급 수준 개발자의 이해를 돕기 위한 과정  
 - 개발과정(30개) : 프로젝트 개발에 필요한 기술 및 트렌드 기반 과정  
+
+ToDo List
+- [ ] 프로젝트 아이디어 각자 2개씩 
 ```
 
 <details>
 <summary>Date 7/14 discussion</summary>
 <div markdown="1">
-```markdown
 강의 듣고, git에 본인 이니셜.txt로 커밋하기  
 
 https://www.inflearn.com/course/git-and-github  
@@ -32,7 +34,6 @@ https://github.com/bluehawhy/dev_com_test.git
 참고 사이트  
 수상작들 - https://www.oss.kr/dev_competition_activities  
 추가 강의 - https://nomadcoders.co/git-for-beginners  
-'''
 </div>
 </details>
 
