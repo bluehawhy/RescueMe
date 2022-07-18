@@ -27,7 +27,7 @@ ToDo List
 <summary>Date 7/14 discussion</summary>
 <span style="font-size:60%">
 <div markdown="1">
-강의 듣고, git에 본인 이니셜.txt로 커밋하기  
+TODO - 강의 듣고, git에 본인 이니셜.txt로 커밋하기  
 https://www.inflearn.com/course/git-and-github  
 https://github.com/bluehawhy/dev_com_test.git  
 기본 베이스가 자바스크립트 or 타입스크립트이므로 각자 공부  
@@ -46,19 +46,18 @@ git 참고 강의
 git 협업방식 - https://youtu.be/EV3FZ3cWBp8  
 git 기본 강의 - https://youtu.be/sly2u8BIi9E  
   
-TODO - 프로젝트 아이디어 각자 2개씩  
+TODO - 프로젝트 아이디어 각자 2개씩
 - 제목 1줄  
 - 디스크립션 2-3줄  
 - due : 7.21(목)까지  
->bluehawhy@gmail.com  
-  
-익명 투표로 진행할 예정   
-  
-예시 idea  
-대충 저번 수상작 예를 들면  
-식자제 교환 시스템  
-식자제를 근접한 사람끼리 교환하는 앱  
-한 사람이 글을 올리면 다른 사람이 보고 채팅을 통해 교환 및 나눔한다  
-> 넘 깊지 않게 작성
+- bluehawhy@gmail.com  
+- 익명 투표로 진행할 예정   
+- 예시 idea  
+> 대충 저번 수상작 예를 들면  
+> 식자제 교환 시스템  
+>> 식자제를 근접한 사람끼리 교환하는 앱  
+>> 한 사람이 글을 올리면 다른 사람이 보고 채팅을 통해 교환 및 나눔한다  
+
+>> 넘 깊지 않게 작성
 </div>
 </details>
