@@ -1,5 +1,6 @@
 ## Welcome to dev_com_test
 
+```markdown
 If you want to access githug pages "dev_com_test", please click the page below.  
 https://bluehawhy.github.io/dev_com_test/  
   
