@@ -16,7 +16,7 @@ https://bluehawhy.github.io/dev_com_test/
 - 개발과정(30개) : 프로젝트 개발에 필요한 기술 및 트렌드 기반 과정  
 
 <details>
-<summary><h2>Date 7/14 discussion</summary>
+<summary>Date 7/14 discussion</summary>
 <div markdown="1">
 강의 듣고, git에 본인 이니셜.txt로 커밋하기  
 
@@ -33,7 +33,7 @@ https://github.com/bluehawhy/dev_com_test.git
 </details>
 
 <details>
-<summary><h2>Date 7/18 discussion</summary>
+<summary>Date 7/18 discussion</summary>
 <div markdown="1">
 git 참고 강의  
 git 협업방식 - https://youtu.be/EV3FZ3cWBp8  
@@ -55,15 +55,6 @@ TODO - 프로젝트 아이디어 각자 2개씩
 > 넘 깊지 않게 작성
 </div>
 </details>
-
-
-
-
-
-
-
-
-
 
 
 You can use the [editor on GitHub](https://github.com/bluehawhy/dev_com_test/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
