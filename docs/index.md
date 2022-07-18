@@ -1,12 +1,11 @@
 ## Welcome to dev_com_test
 
-<span style="font-size:80%">
-If you want to access githug pages "dev_com_test", please click the page below.
-
+```markdown
+If you want to access githug pages "dev_com_test", please click the page below.  
 https://bluehawhy.github.io/dev_com_test/  
-</span>
+```
 
-
+  
 [2022 공개SW 개발자대회](https://www.oss.kr/dev_competition)
 ```markdown
 참가 인원 : 강민수 , 최경림, 권형주, 박용범  
