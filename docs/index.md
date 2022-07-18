@@ -1,12 +1,12 @@
 ## Welcome to dev_com_test
 
-```markdown
+<span style="font-size:80%">
 If you want to access githug pages "dev_com_test", please click the page below.  
 https://bluehawhy.github.io/dev_com_test/  
-  
+</span>
   
 [2022 공개SW 개발자대회](https://www.oss.kr/dev_competition)
-  
+```markdown
 참가 인원 : 강민수 , 최경림, 권형주, 박용범  
   
 일정  
@@ -15,11 +15,11 @@ https://bluehawhy.github.io/dev_com_test/
 참각자의 공개SW 이해 및 개발 역량 강화를 위한 온라인 교육 제공  
 - 선수과정(5개) : 공개SW 처음 접하는 비전공자 및 초급 수준 개발자의 이해를 돕기 위한 과정  
 - 개발과정(30개) : 프로젝트 개발에 필요한 기술 및 트렌드 기반 과정  
+```
 
 ### ToDo List
 - [ ] git 강의 듣고, git에 본인 이니셜.txt로 커밋하기 (07.21)  
 - [ ] 프로젝트 아이디어 각자 2개씩 (07.21) 
-```
 
 ### discuss list
 
