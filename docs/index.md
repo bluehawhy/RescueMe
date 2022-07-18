@@ -25,7 +25,7 @@ ToDo List
 
 <details>
 <summary>Date 7/14 discussion</summary>
-<span style="font-size:60%">
+<span style="font-size:70%">
 <div markdown="1">
 TODO - 강의 듣고, git에 본인 이니셜.txt로 커밋하기  
 https://www.inflearn.com/course/git-and-github  
@@ -41,6 +41,7 @@ https://github.com/bluehawhy/dev_com_test.git
 
 <details>
 <summary>Date 7/18 discussion</summary>
+<span style="font-size:70%">
 <div markdown="1">
 git 참고 강의  
 git 협업방식 - https://youtu.be/EV3FZ3cWBp8  
@@ -60,4 +61,5 @@ TODO - 프로젝트 아이디어 각자 2개씩
 
 >> 넘 깊지 않게 작성
 </div>
+</span>
 </details>
