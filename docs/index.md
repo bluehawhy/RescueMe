@@ -20,7 +20,8 @@ ToDo List
 - [ ] 프로젝트 아이디어 각자 2개씩 
 ```
 
-##discuss list
+### discuss list
+
 <details>
 <summary>Date 7/14 discussion</summary>
 <div markdown="1">
