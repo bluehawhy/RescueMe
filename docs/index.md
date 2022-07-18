@@ -25,6 +25,7 @@ ToDo List
 <details>
 <summary>Date 7/14 discussion</summary>
 <div markdown="1">
+<span style="font-size:100%">
 강의 듣고, git에 본인 이니셜.txt로 커밋하기  
 
 https://www.inflearn.com/course/git-and-github  
@@ -36,6 +37,7 @@ https://github.com/bluehawhy/dev_com_test.git
 참고 사이트  
 수상작들 - https://www.oss.kr/dev_competition_activities  
 추가 강의 - https://nomadcoders.co/git-for-beginners  
+</span>  
 </div>
 </details>
 
