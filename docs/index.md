@@ -25,7 +25,7 @@ ToDo List
 <details>
 <summary>Date 7/14 discussion</summary>
 <div markdown="1">
-<span style="font-size:100%">
+<span style="font-size:60%">
 강의 듣고, git에 본인 이니셜.txt로 커밋하기  
 
 https://www.inflearn.com/course/git-and-github  
