@@ -16,7 +16,7 @@ https://bluehawhy.github.io/dev_com_test/
 - 개발과정(30개) : 프로젝트 개발에 필요한 기술 및 트렌드 기반 과정  
 
 <details>
-<summary><hl>Date 7/14 discussion</hl></summary>
+<summary><hl>Date 7/14 discussion</summary>
 <div markdown="1">
 강의 듣고, git에 본인 이니셜.txt로 커밋하기  
 https://www.inflearn.com/course/git-and-github  
