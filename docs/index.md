@@ -104,8 +104,8 @@ TODO - 프로젝트 아이디어 각자 2개씩
 <summary>Date 7/30 discussion</summary>
 <span style="font-size:70%">
 <div markdown="1">
-신청 완료
-프로젝트 구현을 어떻게 할지 디자인 및 컨셉 결정 필요
+신청 완료  
+프로젝트 구현을 어떻게 할지 디자인 및 컨셉 결정 필요  
 교육 잘 들으세요~
 </div>
 </span>
