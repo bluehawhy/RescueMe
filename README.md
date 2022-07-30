@@ -1,5 +1,5 @@
-# dev_com_test
-source code for dev_competition  (test)
+# RescueMe
+source code for RescueMe  (project)
 
 please click the link 
-[link](https://bluehawhy.github.io/dev_com_test/)
+[link](https://bluehawhy.github.io/RescueMe/)
