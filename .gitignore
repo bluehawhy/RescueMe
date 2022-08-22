@@ -10,5 +10,4 @@
 *.sig
 
 pkg/
-src/
 _venv/
