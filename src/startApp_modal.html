@@ -1,0 +1,32 @@
+<html>
+    <head>
+        <title>RescueMe</title>
+        <!-- Required meta tags -->
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="css/startApp.css">
+        <script src="js/getLocation.js"></script>
+      </head>
+<body>
+  <button id="show">startApp</button>
+  <div class="background">
+    <div class="window">
+      <div class="popup">
+        <button id="close_button">x</button>
+        <p></p>
+        <div class="modal_content">
+          this is modal
+          please make content
+        </div>
+        <div id="myLocationInfo">
+          <script>
+            var elt = document.getElementById("myLocationInfo");
+            whereami(elt);
+          </script>
+        </div>
+      </div>
+    </div>
+    <script src="js/startApp.js"></script>
+      
+        
+</body>
+</html>
