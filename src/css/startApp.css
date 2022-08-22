@@ -16,7 +16,6 @@
     opacity: 1;
     z-index: 1000;
     transition: all 0.5s;
-    background-color: blue;
     border: none;
     color: white;
     padding: 15px 30px;
@@ -35,7 +34,7 @@
     left: 50%;
     transform: translate(-50%, -50%);
     background-color: #ffffff;
-    box-shadow: 0 2px 7px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 2px 7px rgba(221, 218, 218, 0.3);
 
     /* 임시 지정 */
     width: 480px;
@@ -49,4 +48,14 @@
     transform: translate(-50%, -50%);
     transition: all 0.5s;
     background-color: rgba(0, 0, 0, 0.3);
+  }
+  #close_button{
+    background-color: rgba(0, 0, 0, 0);
+    width: 20px;
+    height: 20px;
+    right:0;
+    top:0;
+    position:fixed;
+    border: 0;
+    outline: 0;
   }
