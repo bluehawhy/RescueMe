@@ -57,7 +57,6 @@
             msg += " 당신은 " + pos.coords.heading + " 방향으로 " +
                 "초속 " + pos.coords.speed + "(m/s)의 속도로 움직이고 있습니다.";
         }
-        
         elt.innerHTML = msg;     // 모든 위치 정보를 출력한다.
     }    
 }
