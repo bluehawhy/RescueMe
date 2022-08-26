@@ -1,9 +1,31 @@
-<html>
-    <head>
-        <title>1-1. 1</title>
-      </head>
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+        <meta charset="UTF-8">
+        <title>구조요청</title>
+</head>
+<head>
+    <style type="text/css">
+    .my-box { border:2px solid; padding:10px; }
+    </style>
+<div class="my-box">
+    <strong>구조서비스</strong> 
+</head>
+
 <body>
-  구조요청
-  위치정보확인
+    <form action="" name="frm">
+        <select name="list" onchange="location=document.frm.list.value">
+            <option>선택하세요</option>
+            <!---->
+            <option value="https://www.google.co.kr/maps">Google</option>
+            <option value="https://map.kakao.com">카카오</option>
+            <option value="https://map.naver.com/">네이버</option>
+           
+    </form>        
+        </select> 
+
+
 </body>
+
+
 </html>
