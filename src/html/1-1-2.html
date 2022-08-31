@@ -1,31 +1,31 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="ko">
-<head>
-        <meta charset="UTF-8">
-        <title>구조요청</title>
-</head>
-<head>
-    <style type="text/css">
-    .my-box { border:2px solid; padding:10px; }
-    </style>
-<div class="my-box">
-    <strong>구조서비스</strong> 
-</head>
-
-<body>
-    <form action="" name="frm">
-        <select name="list" onchange="location=document.frm.list.value">
-            <option>선택하세요</option>
-            <!---->
-            <option value="https://www.google.co.kr/maps">Google</option>
-            <option value="https://map.kakao.com">카카오</option>
-            <option value="https://map.naver.com/">네이버</option>
-           
-    </form>        
-        </select> 
-
-
-</body>
-
-
+  <head>
+  <meta charset="utf-8">
+    <title>HTML</title>
+  </head>
+  <body>
+    <form action="#" accept-charset="utf-8" name="Emgergenct service" method="get"
+      <fieldset style="width:150">
+          <legend>응급구조서비스</legend>
+          <div>
+            <input type="radio" id="service"/> 
+            <label for="service_id">모두</label>
+          </div>
+          <div>
+            <input type="radio" id="service"/> 
+            <label for="service_id">구글</label>
+          </div>
+          <div>
+            <input type="radio" id="service"/> 
+            <label for="service_id">네이버</label>
+          </div>
+          <div>
+            <input type="radio" id="service"/> 
+            <label for="service_id">카카오</label>
+          </div>
+            <p><input type="submit" value="위치정보 전송"> <input type="reset" value="Reset"></p>
+      </fieldset>
+    </form>
+  </body>
 </html>
