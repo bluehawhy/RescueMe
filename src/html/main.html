@@ -5,10 +5,16 @@
         <meta charset="utf-8">
         <link rel="stylesheet" href="../css/startApp.css">
         <script language="javascript">
-        function showPopup() { window.open("1-1-1.html", "a", "width=400, height=300, left=100, top=50"); }
+        function showPopup() { window.open("1-1-1.html","_self","location=no","toolbars=no", "width=400, height=300, left=100, top=50"); }
+        //function closeTab() {window.close();}
+        function startApp(){
+          showPopup();
+          //closeTab();
+        }
+        //showPopup()
         </script>
       </head>
 <body>
-  <button id="show", value="팝업창 호출" onclick="showPopup();">startApp</button>
+  <button id="show", value="팝업창 호출" onclick="startApp();">startApp</button>
 </body>
 </html>
